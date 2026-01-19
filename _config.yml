@@ -9,9 +9,9 @@ theme: minima
 # Navigation im Header explizit definieren (Reihenfolge = Menü-Reihenfolge)
 header_pages:
   - index.md          # about = Startseite
-  - publications.md
-  - projects.md
-  - teaching.md
-  - blog.md
-  - services.md
-  - about.md
+  - pages/publications.md
+  - pages/rojects.md
+  - pages/teaching.md
+  - pages/blog.md
+  - pages/services.md
+  - pages/about.md
