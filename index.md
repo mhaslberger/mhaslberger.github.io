@@ -3,7 +3,7 @@ layout: page
 title: "about"
 ---
 
-# Martin Haslberger
+# Hi!
 
 I'm a pharmacist with experience in metaresearch, public health research and a wide range of academic interests. 
 
