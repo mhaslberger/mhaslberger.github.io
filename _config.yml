@@ -10,7 +10,7 @@ theme: minima
 header_pages:
   - index.md          # about = Startseite
   - publications.md
-  - rojects.md
+  - projects.md
   - teaching.md
   - blog.md
   - services.md
