@@ -1,0 +1,17 @@
+title: "Martin Haslberger"
+description: "Pharmacist, Public Health and Meta-Researcher"
+url: "https://deinusername.github.io"
+baseurl: ""   # leer lassen bei user.github.io
+
+# Minima-Theme aktivieren
+theme: minima
+
+# Navigation im Header explizit definieren (Reihenfolge = Menü-Reihenfolge)
+header_pages:
+  - index.md          # about = Startseite
+  - publications.md
+  - projects.md
+  - teaching.md
+  - blog.md
+  - services.md
+  - about.md
